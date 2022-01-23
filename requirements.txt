@@ -19,7 +19,7 @@ entrypoints==0.2.2
 functools32==3.2.3.post2
 ipdb==0.10.0
 ipykernel==4.3.1
-ipython==4.2.0
+ipython==7.16.3
 ipython-genutils==0.1.0
 ipywidgets==5.1.4
 jsonschema==2.5.1
